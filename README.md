@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Interests
+- Sports (Table tennis, badminton)
+- Multi-agent Reinforcement learning (Implementation and theory)
