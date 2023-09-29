@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 # Interests
 - Sports (Table tennis, badminton)
-- Multi-agent Reinforcement learning (Implementation and theory)
+- Emergent communication in multi-agent systems
+- Multi-agent Reinforcement Learning (Implementation and theory)
