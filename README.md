@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - Sports (Table tennis, badminton)
 - Emergent communication in multi-agent systems
 - Multi-agent Reinforcement Learning (Implementation and theory)
+- LLMs (task planning, reasoning and tool calling)
